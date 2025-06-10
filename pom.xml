@@ -3,5 +3,5 @@
     <sonar.projectName>My Java App</sonar.projectName>
     <sonar.projectVersion>1.0</sonar.projectVersion>
     <sonar.host.url>http://localhost:9000</sonar.host.url>
-    <sonar.login>YOUR_TOKEN</sonar.login>
+    <sonar.login>squ_ea96d3e95e3cd024f6bd8c5b2196e8245f29fcfe</sonar.login>
 </properties>
